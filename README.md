@@ -1,5 +1,5 @@
 # Aulas - INFO21A
-## subtíltulo
+## Aprendendo o básico
 aulas de git/github da info21a
 
 **negrito**
